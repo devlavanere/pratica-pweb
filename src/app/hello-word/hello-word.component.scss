@@ -1,0 +1,16 @@
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+    padding: 5rem;
+    font-size: 1.5rem;
+    border-radius: 10%;
+    background-color: antiquewhite;
+    color: rgb(137, 170, 121);
+}
+
+div:hover {
+    color: #333;
+}
